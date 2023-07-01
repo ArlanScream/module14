@@ -60,7 +60,7 @@
         
         <?php
             include 'pages/loginWindow.php'; // модальное окно входа
-            include 'pages/birthdayInputWindow.php';  // модальное окно ввода ДР
+            include 'pages/birthday.php';  // модальное окно ввода ДР
 
             if($auth){ 
                 // при первом входе активируется индивидуальная скидка 
@@ -158,6 +158,6 @@
     <script type='text/javascript' src='js/dateFunc.js'></script>
     <script type='text/javascript' src='js/index.js'></script>
     <script type='text/javascript' src='js/loginInputWindow.js'></script>
-    <script type='text/javascript' src='js/birthdayInputWindow.js'></script>
+    <script type='text/javascript' src='js/birthday.js'></script>
 </body>
 </html>
