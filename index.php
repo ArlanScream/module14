@@ -27,9 +27,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="img/icon.png">
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/modal.css">
-    <link rel="stylesheet" href="css/birthdaySendWindow.css">
+    <link rel="stylesheet" href="css/birthday.css">
     <link rel="stylesheet" href="css/loginWindow.css">
     <title> СПА-салон «SPA PRO»</title>
 </head>
