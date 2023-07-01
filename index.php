@@ -53,8 +53,6 @@
 
     <main>
         <div class='stripes'></div>
-        <!-- Панель администратора -->
-        <a href="../pages/admin.php" class='adminPanelRef'>Панель администратора</a>
         <!-- контейнер числа дней до ДР -->
         <p class='discount discountBirthday'></p>
         <!-- индивидуальная скидка -->
@@ -97,18 +95,18 @@
             <h2 class='services-container__title'>Услуги</h2>
             <div class='services-container'>
             <section class='service'>
-                <h3 class='service__title'>Традиционный тайский массаж</h3>
+                <h3 class='service__title'>«Ледяной ананас»</h3>
                 <img src="img/srv1.png" alt="">
-                <p class='service__info'>Для здоровья и улучшения общего самочувствия.</p>
+                <p class='service__info'>Релакс процедура с лимфодренажным и детокс эффектом, разработанная специально для летнего сезона. Предотвращает застой жидкости в организме. Обладая свежим экзотическим ароматом, имеет эффект глубокого расслабления и аромарелакса.</p>
                 <ul class='service__pricelist'>
-                    <li>60 минут — <span class='service__price'>3600₽</span></li>
-                    <li>90 минут — <span class='service__price'>5400₽</span></li>
-                    <li>120 минут — <span class='service__price'>7200₽</span></li>
+                    <li>60 минут — <span class='service__price'>1600₽</span></li>
+                    <li>90 минут — <span class='service__price'>3400₽</span></li>
+                    <li>120 минут — <span class='service__price'>5200₽</span></li>
                 </ul>
             </section>
 
             <section class='service'> 
-                <h3 class='service__title'>Массаж "Релакс"</h3>
+                <h3 class='service__title'>Талассо Магнезиум</h3>
                 <img src="img/srv2.png" alt="">
                 <p class='service__info'>Массаж расслабляет все тело, уходят зажимы, восстанавливается подвижность тела.</p>
                 <ul class='service__pricelist'>
@@ -118,7 +116,7 @@
                 </ul>
             </section>
             <section class='service'>
-                <h3 class='service__title'>Массаж "Тоник" (лимфодренажный)</h3>
+                <h3 class='service__title'>SPA-ритуал «Турецкий мыльный массаж»</h3>
                 <img src="img/srv3.png" alt="">
                 <p class='service__info'>Выполняется движениями от конечностей к центру тела.
                     Перед массажем нужно выпить стакан воды. 
